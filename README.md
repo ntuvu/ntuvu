@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hello, I'm Tu! <img src="https://cdn3.emoji.gg/emojis/7738-pepe-wink.png" width="64px" height="64px" alt="pepe_wink">
 
-<!--
-**ntuvu/ntuvu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Tu and I'm from Vietnam <a href="https://emoji.gg/emoji/6548-peepovietnam"><img src="https://cdn3.emoji.gg/emojis/6548-peepovietnam.gif" width="64px" height="64px" alt="peepoVietnam"></a>
 
-Here are some ideas to get you started:
+```json
+{
+  "user": {
+    "fullName": "Tu Vu",
+    "gender": "male",
+    "country": "Vietnam",
+    "dob": "2001-xx-xx",
+    "programmingLanguage": [
+      "Java",
+      "Javascript",
+      "Typescript",
+      "C#"
+    ],
+    "frameworkAndLibrary": [
+      "Spring",
+      "Express",
+      "React",
+      "Angular",
+      "Vue"
+    ]
+  }
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## <img src="https://cdn3.emoji.gg/emojis/3604-pepe-upvote.png" width="64px" height="64px" alt="pepe_upvote"> Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=ntuvu&theme=onedark&show_icons=true&count_private=true"> &nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ntuvu&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntuvu&theme=onedark&layout=compact&langs_count=6">
