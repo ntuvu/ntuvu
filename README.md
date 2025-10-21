@@ -11,7 +11,7 @@
 
 **Tech Stack:**
 - Oracle  
-- Python (ETL/CLI)  
+- Python
 - Java  
 - Prefect  
 - Airflow  
