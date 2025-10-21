@@ -20,3 +20,5 @@
 ## 📫 Contact
 - [LinkedIn](https://linkedin.com/in/ntuvu)  
 - **Email:** [ntuvudev@gmail.com](mailto:ntuvudev@gmail.com)
+
+<img src="https://github-readme-stats.vercel.app/api?username=ntuvu&theme=onedark&show_icons=true&count_private=true"> &nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ntuvu&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) &nbsp; 
