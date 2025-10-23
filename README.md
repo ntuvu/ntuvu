@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-**Position:** Software & Data Engineer  
+**Position:** Software & Data Engineer, FullStackOverFlow, loyal user of ChatGPT, Claude, and Cursor.
 
 **Focus Areas:**
 - Backend  
